@@ -1,4 +1,5 @@
 import "./App.css";
+import { Avatar } from "./components/avatar";
 import { RPSButton } from "./components/rps-button";
 
 function App() {
